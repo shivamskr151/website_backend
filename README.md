@@ -196,8 +196,7 @@ backend/
 │   ├── app.service.ts                # Main app service
 │   └── main.ts                       # Application entry point
 ├── 📁 views/                         # EJS template views
-│   ├── confirm_email.ejs            # Email confirmation template
-│   └── recording.ejs                # Recording view template
+│   └── confirm_email.ejs            # Email confirmation template
 ├── 📄 backend.env                    # Environment variables
 ├── 📄 google_credentials.json       # Google Cloud credentials
 ├── 📄 Dockerfile                     # Docker configuration
